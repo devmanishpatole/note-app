@@ -2,5 +2,5 @@
 const FILE_NAME = 'notes.txt'
 
 module.exports = {
-    'file_name': FILE_NAME
+    'FILE_NAME': FILE_NAME
 }
